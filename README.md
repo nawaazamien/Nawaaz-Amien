@@ -21,3 +21,5 @@ This is a simple web project that introduces myself and displays a **"Hello Worl
 - **CSS3** (Internal CSS for styling)  
 - **JavaScript** (DOM manipulation)  
  
+![Screenshot 2025-02-06 181826](https://github.com/user-attachments/assets/6fc3de80-1196-4e65-807a-056a48e129d0)
+![Screenshot 2025-02-06 181949](https://github.com/user-attachments/assets/c7646a19-c0bc-47d4-8967-be1b05d0b0c2)
